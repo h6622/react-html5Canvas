@@ -1,9 +1,11 @@
 import React from "react";
 
+import Canvas from "./components/Canvas";
+
 const App = () => {
   return (
     <>
-      <h1>Hello React-Html5Canvas</h1>
+      <Canvas />
     </>
   );
 };
